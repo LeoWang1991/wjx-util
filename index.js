@@ -23,3 +23,6 @@ function formatTime(time, format = "YYYY-MM-DD") {
   return dateStr
 }
 
+export {
+  formatTime
+}
