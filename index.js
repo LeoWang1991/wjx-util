@@ -2,6 +2,7 @@ function formatTime(time, format = "YYYY-MM-DD") {
   const isDate = time instanceof Date
   const date = isDate ? time : new Date(time)
   if(isNaN(date.valueOf())) {
+    console.log('时间格式错误---');
     return '--'
   }
 
