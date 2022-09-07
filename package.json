@@ -1,12 +1,20 @@
 {
-  "name": "wjx-util",
+  "name": "@wangjx/wjx-util",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC"
+  "author": "wangjx",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LeoWang1991/wjx-util.git"
+  },
+  "bugs": {
+    "url": "https://github.com/LeoWang1991/wjx-util/issues"
+  },
+  "homepage": "https://github.com/LeoWang1991/wjx-util#readme",
+  "description": ""
 }
